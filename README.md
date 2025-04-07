@@ -1,1 +1,2 @@
 # END TO END ML PROJECT
+This project understands how the students performance(test scores) is affected by other variables such as Gender,Ethnicity,Parental level of education,Lunch and Test preparations course.
